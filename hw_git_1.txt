@@ -11,4 +11,5 @@
 11) Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата) - vim new.json
 12) Отправить изменения на внешний репозиторий - git commit -m "modefied new.json"; git push
 13) Создать файл preferences.json (Добавить информацию) -> vim preferens.json -> git add preferens.json -> git commit -m "add preferens.json"-> git push
-
+14) Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON - vim skills.json
+15) 
