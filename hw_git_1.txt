@@ -1,0 +1,14 @@
+1) Посмотреть где я - pwd;
+2) Путь к используемой папке - cd c:/Users/ASUS/'VS CODE'/HW_Git
+3) Создать файл .txt - touch hw_git_1.txt
+4) Создать внешний репозиторий c названием JSON - github.com -> Repositories -> New -> Repositories name "JSON" -> Public -> Add a README file -> Create repostory
+5) Клонировать репозиторий JSON на локальный компьютер - git clone https://github.com/VladimirJG/JSON.git
+6) Зайти внутрь локального JSON - cd JSON
+7) Внутри локального JSON создать файл “new.json” - touch new.json
+8) Добавить файл под git - add new.json
+9) Закоммитить файл - git commit -m "add new.json"
+10) Отправить файл на внешний GitHub репозиторий - git push 
+11) Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата) - vim new.json
+12) Отправить изменения на внешний репозиторий - git commit -m "modefied new.json"; git push
+13) Создать файл preferences.json (Добавить информацию) -> vim preferens.json -> git add preferens.json -> git commit -m "add preferens.json"-> git push
+
