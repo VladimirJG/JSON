@@ -12,4 +12,7 @@
 12) Отправить изменения на внешний репозиторий - git commit -m "modefied new.json"; git push
 13) Создать файл preferences.json (Добавить информацию) -> vim preferens.json -> git add preferens.json -> git commit -m "add preferens.json"-> git push
 14) Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON - vim skills.json
-15) 
+15) Отправить сразу 2 файла на внешний репозиторий - git add . -> git commit _am"2 new files" -> git push
+16)
+17)
+
