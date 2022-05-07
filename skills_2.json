@@ -1,9 +1,9 @@
 "hard_skills": {
 
     "theory": "testing theory",
-    "types": "functional, non_functional",
-    "test design": "equivalence classes, boundary values",
-    "testing artefact": "test cases, bug reports"
+    "types": ["functional, non_functional"],
+    "test design":["equivalence classes, boundary values"],
+    "testing artefact":["test cases, bug reports"]
 },
 
 
