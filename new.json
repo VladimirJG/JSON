@@ -1,7 +1,7 @@
 {
-	"I liked to" : "movied, movied",
+	"I liked to" : ["movied, movied"],
 	"Name" : "Danilov_Vladimir_Vadimovich",
-	"Age" : "36",
-	"Animals" : "0",
+	"Age" : 36,
+	"Animals" : null,
 	"First_cash" : "428$_for_3-6_mounth"
 }
