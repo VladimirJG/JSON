@@ -1,4 +1,4 @@
-"hard_skills": {
+{"hard_skills": {
 
     "theory": "testing theory",
     "types": ["functional, non_functional"],
@@ -14,4 +14,5 @@
     "completing tasks": "creativity",
     "job": "stress_tolerance"
 
+}
 }
