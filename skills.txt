@@ -3,7 +3,7 @@
 	"types" : "functional, non_functional",
 	"test design" : "equivalence classes, boundary values",
 	"testing artefact" : "test cases, bug reports"
-	}	
+	},	
 	
 	soft skills: {
 	"team" : "sociability",
