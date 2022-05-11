@@ -5,7 +5,7 @@
   "precondition" : ["Pc_1" : "Войти на GitHub(онлайн)",
                     "Pc_2" : "Aвторизоваться как VladimirJG",
                     "Pc_3" : "Войти на Git Bash"],
-  "step to reproduce" :["Step_1" : "Войти в репозиторий JSON(путь),
+  "step to reproduce" :["Step_1" : "Войти в репозиторий JSON(путь)",
                         "Step_2" : "Войти в файл new.json командой 'vim'",
                         "Step_3" : "Внести изменения",
                         "Step_4" : "Сохранить и выйти",
