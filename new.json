@@ -1,9 +1,9 @@
 {
-	"I liked to" : ["movied, movied"],
+	"I like to" : ["movied, movied"],
 	"Person" :{
 		"lastname":"Danilov",
 		"firstname":"Vladimir",
 	"Age" : 36},
 	"Animals" : null,
-	"First_cash" : "428$_for_3-6_mounth"
+	"First cash" : "428$_for_3-6_mounth"
 }
