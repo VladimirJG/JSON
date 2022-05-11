@@ -1,11 +1,11 @@
 {
-"bug_report" :{ 
-  "id" : "01_JSON",
-  "summary" : "команда 'vim' не вносит изменения в файл new.json",
-  "precondition" : ["Pc_1" : "Войти на GitHub(онлайн)",
+"Bug_report" :{ 
+  "Id" : "01_JSON",
+  "Summary" : "команда 'vim' не вносит изменения в файл new.json",
+  "Precondition" : ["Pc_1" : "Войти на GitHub(онлайн)",
                     "Pc_2" : "Aвторизоваться как VladimirJG",
                     "Pc_3" : "Войти на Git Bash"],
-  "step to reproduce" :["Step_1" : "Войти в репозиторий JSON(путь)",
+  "Step to reproduce" :["Step_1" : "Войти в репозиторий JSON(путь)",
                         "Step_2" : "Войти в файл new.json командой 'vim'",
                         "Step_3" : "Внести изменения",
                         "Step_4" : "Сохранить и выйти",
