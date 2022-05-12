@@ -12,7 +12,7 @@
 12) Отправить изменения на внешний репозиторий -  git commit -am "modefied new.json" -> git push
 13) Создать файл preferences.json (Добавить информацию) -> vim preferens.json -> Esc -> :wq -> Enter
 14) Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON - vim skills.json -> Esc -> :wq -> Enter
-15) Отправить сразу 2 файла на внешний репозиторий - git add . -> git commit -m "2 new files" -> git push
+15) Отправить сразу 2 файла на внешний репозиторий - git add . && git commit -m "2 new files" -> git push
 16) На веб интерфейсе создать файл bug_report.json -> add file -> create new file 
 17) Сделать Commit changes изменений на веб интерфейсе -> commit changes
 18) На вуб интерфейсе модифицировать файл -> edit this file -> commit changes
